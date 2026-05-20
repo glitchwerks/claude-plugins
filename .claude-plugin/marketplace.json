@@ -26,10 +26,10 @@
       "source": {
         "source": "github",
         "repo": "glitchwerks/claude-prospector",
-        "sha": "d9914e1e1851b721d3c751f7f91615235e6e4e8a"
+        "sha": "907e4969efd2da0290fc2ad9d5664050714bcb12"
       },
       "description": "Claude Code efficiency and hygiene toolkit. Surfaces token spend across the 5h / 7d / Sonnet-7d billing windows with per-model / per-agent / per-skill attribution, and audits your effective Claude Code configuration (custom + plugin agents and skills) for overlap and conflicts. Ships an interactive dashboard, a conversational usage-analysis skill, and a structured config-audit skill.",
-      "version": "0.8.1",
+      "version": "0.8.2",
       "author": {
         "name": "Christopher Beaulieu",
         "email": "cmb_dev@outlook.com"
