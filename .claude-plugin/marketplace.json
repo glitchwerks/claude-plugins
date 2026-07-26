@@ -54,10 +54,10 @@
       "source": {
         "source": "github",
         "repo": "glitchwerks/mini-caveman",
-        "sha": "78f452cf8ec3ece3d733e315b1914dbf81baf800"
+        "sha": "0a5fa31fb42f26bc73edecebe91d5f991fc33126"
       },
       "description": "Minimized, dependency-free, Claude-Code-only build of caveman (MIT, by Julius Brussee). Terse compressed responses (~65-75% fewer output tokens) via SessionStart/UserPromptSubmit hooks, plus /caveman-help, a pure-Node isolated /caveman-compress, and the cavecrew subagents. Security-audited for work use.",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "author": {
         "name": "Christopher Beaulieu",
         "email": "cmb_dev@outlook.com"
