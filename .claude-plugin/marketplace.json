@@ -12,10 +12,10 @@
       "source": {
         "source": "github",
         "repo": "glitchwerks/claude-wayfinder",
-        "sha": "c8750042cb981f680ce133943b0fedc2b3d67838"
+        "sha": "91b72a36dd0176d7923f57532e49bc4e1ec53c1f"
       },
       "description": "Helps Claude make deterministic, auditable choices about which agent and skills to use for a given task — replacing prose-scanning agent/skill selection with a typed scoring kernel.",
-      "version": "1.4.0",
+      "version": "2.0.0",
       "author": {
         "name": "Christopher Beaulieu",
         "email": "cmb_dev@outlook.com"
