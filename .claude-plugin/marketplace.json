@@ -40,10 +40,10 @@
       "source": {
         "source": "github",
         "repo": "glitchwerks/claude-github-tools",
-        "sha": "5792745f36e146a5d9a114445cb6ae7f0a02a7bd"
+        "sha": "c3dc17b6f6987dd130193a1a1f11ad76a4e18420"
       },
       "description": "GitHub workflow skills for Claude Code: structured issue creation, PR review-feedback triage, an unattended PR-feedback loop that drives a PR to green-and-merged, backlog summaries and quick-wins, milestone-grouped issue listings, and GitHub Actions authoring guidance. Works with an authenticated gh CLI; uses a configured GitHub MCP server when present and falls back to gh otherwise.",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "author": {
         "name": "Christopher Beaulieu",
         "email": "cmb_dev@outlook.com"
